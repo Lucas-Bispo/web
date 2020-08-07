@@ -23,7 +23,7 @@ function Landing(){
                 alt="Plataforma de estudos" 
                 className="hero-image"
             />
-            
+
             <div className="buttons-container">
                 <a href="" className="study">
                     <img src={studyIcon} alt="Estudar"/>
@@ -32,8 +32,8 @@ function Landing(){
                 </a>
 
                 <a href="" className="give-classes">
-                    <img src={giveClassesIcon} alt="Estudar"/>
-                    Estudar
+                    <img src={giveClassesIcon} alt="Dar aulas"/>
+                    Dar aulas
 
                 </a>
             </div>
