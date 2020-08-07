@@ -23,6 +23,7 @@ function Landing(){
                 alt="Plataforma de estudos" 
                 className="hero-image"
             />
+            
             <div className="buttons-container">
                 <a href="" className="study">
                     <img src={studyIcon} alt="Estudar"/>
