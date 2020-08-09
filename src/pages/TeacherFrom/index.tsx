@@ -4,7 +4,10 @@ import PageHeader from '../../components/PageHeader';
 function TeacherFrom(){
     return(
         <div id="page-teacher-form" className="container">
-           <PageHeader title="Que incrivel que você quer dar aulas." />
+           <PageHeader 
+           title="Que incrivel que você quer dar aulas." 
+           description="O primeiro passo é preencher esse formulário de inscrição"
+           />
         </div>
     )
 }
